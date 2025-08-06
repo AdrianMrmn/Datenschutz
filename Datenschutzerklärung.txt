@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Datenschutzrichtlinie</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #0056b3;
+    }
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzrichtlinie</h1>
+  <p>Diese Anwendung wird ausschließlich zu Test- und Entwicklungszwecken verwendet.</p>
+  <p>Es werden keine personenbezogenen Daten erhoben, gespeichert oder verarbeitet.</p>
+  <p>Die Nutzung erfolgt ausschließlich durch den Entwickler und ist nicht öffentlich zugänglich.</p>
+  <p>Bei Fragen zur Anwendung oder zum Datenschutz wenden Sie sich bitte an: <a href="mailto:deine@email.de">deine@email.de</a></p>
+</body>
+</html>
